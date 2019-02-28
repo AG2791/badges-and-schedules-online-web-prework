@@ -17,7 +17,7 @@ end
 
 def assign_rooms(speakers)
     names.collection.each_with_index do |speaker, index|
-        "Hello, #{speaker}! You'll be assigned to room #{index +1}!"
+        "Hello, #{speaker}! You'll be assigned to room #{inde+1}!"
     ### for each speaker assign_rooms in range 1 through 7
     end
   end
