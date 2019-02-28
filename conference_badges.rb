@@ -13,19 +13,20 @@ def batch_badge_creator(names)
   names.collect { |name| puts badge_maker(name) }
 ### for each speaker in array implemanet badge_maker
 end
-
+end
 
 def assign_rooms(speakers)
     names.collection.each_with_index do |speaker, index|
         "Hello, #{speaker}! You'll be assigned to room #{index +1}!"
     ### for each speaker assign_rooms in range 1 through 7
-    ### return string 
+    end
   end
  
 
 def printer (names)
     batch_badge_creator(name).each do |name| put name 
     end
+  end
 
 assign_rooms(names).each do |name|
     puts name
