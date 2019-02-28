@@ -1,8 +1,5 @@
 
-speakers=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-
-
-names=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+speakers=["Edsger", "Ada", "Charles", "Alan", "Grace", 
 
 Def badge_maker(name)
 puts "Hello, my name is #{name}."
