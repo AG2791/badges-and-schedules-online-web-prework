@@ -28,6 +28,6 @@ def printer (speakers)
     end
   end
 
-assign_rooms(names).each do |name|
-    puts name
+assign_rooms(speakers).each do |speaker|
+    puts speaker
   end
