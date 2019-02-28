@@ -4,7 +4,7 @@ speakers=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 names=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-Def badge_maker(name)
+Def badge_maker(names)
 puts "Hello, my name is #{name}."
 end 
 
